@@ -21,7 +21,7 @@ import Contact from '../../pages/contact/contact'
 import Home from '../../pages/home/home'
 import * as userApi from '../../utils/api/user-api'
 import { NotificationContext } from '../../components/notification-provider/notification-provider'
-import ChangeDark from '../change-dark-mode/change-dark-mode'nit
+import ChangeDark from '../change-dark-mode/change-dark-mode'
 import Projects from '../../pages/projects/projectss'
 import Skill from '../../pages/skills/skills'
 
